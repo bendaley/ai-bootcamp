@@ -1,15 +1,17 @@
 {
   "name": "todo-app",
   "version": "1.0.0",
-  "description": "Simple todo list application with local JSON storage",
+  "description": "Simple todo list application with Supabase database",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "keywords": ["todo", "express", "json"],
+  "keywords": ["todo", "express", "supabase"],
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
+    "dotenv": "^16.3.1",
     "express": "^4.18.2"
   }
 }

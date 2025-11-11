@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1762895126644,
+    "text": "attend workshop",
+    "completed": true
+  },
+  {
+    "id": 1762895143994,
+    "text": "deploy",
+    "completed": true
+  },
+  {
+    "id": 1762895147542,
+    "text": "add to github",
+    "completed": false
+  },
+  {
+    "id": 1762895152324,
+    "text": "change ugly purple color",
+    "completed": false
+  }
+]
